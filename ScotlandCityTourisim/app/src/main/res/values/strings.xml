@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Explore Scotland CMP309</string>
+    <string name="accelerometer">Accelerometer</string>
+    <string name="y_axis">Y Axis</string>
+    <string name="x_axis">X Axis</string>
+    <string name="z_axis">Z Axis</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="mainText">Explore Scotland</string>
+    <string name="optionSelect">Choose a city to explore, or write notes about your adventures</string>
+    <string name="dundee_city">Dundee City</string>
+    <string name="edinburgh_city">Edinburgh City</string>
+    <string name="notes">Notes</string>
+    <string name="visited_notes">Write notes about places you\'ve visited</string>
+    <string name="noteEditHint">Create a new note</string>
+</resources>
